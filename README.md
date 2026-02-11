@@ -1,6 +1,3 @@
-# picsimlab_saved_workspaces
-A collection of saved workspace examples and projects for PICSimLab.
-
 # PICSimLab Saved Workspaces
 
 ![PICSimLab](https://img.shields.io/badge/PICSimLab-Simulator-blue)
